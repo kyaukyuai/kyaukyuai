@@ -30,13 +30,17 @@
  [![PyPI](https://img.shields.io/pypi/v/gpt-all-star.svg?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/gpt-all-star/)
  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
  
- `Python` `OpenAI GPT` `LangChain`
+ `Python` `OpenAI GPT` `LangChain` `Streamlit`
  
- [<img src="https://img.shields.io/badge/View_Project-4F46E5?style=for-the-badge&logo=github" />](https://github.com/kyaukyuai/gpt-all-star)
- [<img src="https://img.shields.io/badge/View_Demo-22C55E?style=for-the-badge&logo=github" />](https://github.com/kyaukyuai/gpt-all-star#demo)
+ [<img src="https://img.shields.io/badge/View_CLI-4F46E5?style=for-the-badge&logo=github" />](https://github.com/kyaukyuai/gpt-all-star)
+ [<img src="https://img.shields.io/badge/View_UI-22C55E?style=for-the-badge&logo=github" />](https://github.com/kyaukyuai/gpt-all-star-ui)
 
- ### Demo
+ ### CLI Demo
  <img width="75%" alt="gpt-all-star-demo" src="https://github.com/kyaukyuai/gpt-all-star/assets/1140707/1ec23255-7463-4510-90fc-80b15eb64cb9">
+
+ ### UI Demo
+ <video width="75%" alt="gpt-all-star-ui-demo" src="https://github.com/user-attachments/assets/056eac22-8ee9-40a6-b487-313788e7757c"></video>
+
 </div>
 
 ---
